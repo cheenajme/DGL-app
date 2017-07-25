@@ -1,0 +1,134 @@
+TASK tw.dgl.com id=470
+  ACTIVITY tw.dgl.com/.EMS 2ca95fa8 pid=6478
+    Local FragmentActivity 7b93794 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@943f23d
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@943f23d
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{3deaea32 V.E..... ... 0,0-320,480}
+        android.widget.LinearLayout{50d2383 V.E..... ... 0,0-320,480}
+          android.view.ViewStub{21bc3900 G.E..... ... 0,0-0,0 #1020373}
+          android.widget.FrameLayout{c827539 V.E..... ... 0,25-320,480}
+            android.support.v7.widget.ActionBarOverlayLayout{3659777e V.E..... ... 0,0-320,455 #7f0c003f app:id/decor_content_parent}
+              android.support.v7.widget.ContentFrameLayout{ff474df V.E..... ... 0,56-320,455 #1020002 android:id/content}
+                android.widget.LinearLayout{a2be52c V.E..... ... 0,0-320,399}
+                  android.widget.ScrollView{208c2bf5 VFED.V.. ... 16,16-16,16 #7f0c0033 app:id/scrollView}
+                    android.widget.LinearLayout{5918d8a V.E..... ... 0,0-0,0}
+                      android.support.v7.widget.AppCompatImageView{3ad57ffb V.ED.... ... 0,0-0,0 #7f0c0051 app:id/imageView1}
+                      android.support.v7.widget.AppCompatImageView{11082818 V.ED.... ... 0,0-0,0 #7f0c0052 app:id/imageView2}
+                  android.support.v7.widget.AppCompatTextView{17409271 V.ED.... ... 16,16-16,35 #7f0c0053 app:id/text}
+              android.support.v7.widget.ActionBarContainer{782f856 V.ED.... ... 0,0-320,56 #7f0c0040 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{2f220d7 V.E..... ... 0,0-320,56 #7f0c0041 app:id/action_bar}
+                  android.widget.TextView{463adc4 V.ED.... ... 16,14-54,42}
+                  android.support.v7.widget.ActionMenuView{26fae4ad V.E..... ... 320,0-320,56}
+                android.support.v7.widget.ActionBarContextView{154e43e2 G.E..... ... 0,0-0,0 #7f0c0042 app:id/action_context_bar}
+        android.view.View{dcdf373 V.ED.... ... 0,0-320,25 #102002f android:id/statusBarBackground}
+
+  ACTIVITY tw.dgl.com/.DetailActivity 135f8244 pid=6478
+    Local FragmentActivity 35022b95 State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@1ecfe230
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@1ecfe230
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{168e1ea9 I.E..... ... 0,0-320,480}
+        android.widget.LinearLayout{790bc2e V.E..... ... 0,0-320,480}
+          android.view.ViewStub{b8a53cf G.E..... ... 0,0-0,0 #1020373}
+          android.widget.FrameLayout{3088f15c V.E..... ... 0,25-320,480}
+            android.support.v7.widget.ActionBarOverlayLayout{2d00fc65 V.E..... ... 0,0-320,455 #7f0c003f app:id/decor_content_parent}
+              android.support.v7.widget.ContentFrameLayout{11706d3a V.E..... ... 0,56-320,455 #1020002 android:id/content}
+                android.widget.LinearLayout{23025deb V.E..... ... 0,0-320,399}
+                  android.widget.ListView{2f61c748 VFED.VC. F.. 0,0-320,399 #7f0c0050 app:id/listView}
+                    android.widget.RelativeLayout{2109f9e1 V.E...C. ... 0,-14-320,31}
+                      android.widget.LinearLayout{682306 V.E..... ... 0,0-320,45}
+                        android.support.v7.widget.AppCompatTextView{3a6edc7 V.ED.... ... 0,0-232,45 #7f0c0054 app:id/key}
+                        android.support.v7.widget.AppCompatTextView{19700ff4 V.ED.... ... 232,7-320,44 #7f0c0055 app:id/value}
+                    android.widget.RelativeLayout{44b531d V.E...C. ... 0,32-320,77}
+                      android.widget.LinearLayout{2cd36992 V.E..... ... 0,0-320,45}
+                        android.support.v7.widget.AppCompatTextView{391a9f63 V.ED.... ... 0,0-220,45 #7f0c0054 app:id/key}
+                        android.support.v7.widget.AppCompatTextView{16783760 V.ED.... ... 220,7-320,44 #7f0c0055 app:id/value}
+                    android.widget.RelativeLayout{264f0419 V.E..... ... 0,78-320,123}
+                      android.widget.LinearLayout{273a8cde V.E..... ... 0,0-320,45}
+                        android.support.v7.widget.AppCompatTextView{1c8dcebf V.ED.... ... 0,0-241,45 #7f0c0054 app:id/key}
+                        android.support.v7.widget.AppCompatTextView{419698c V.ED.... ... 241,7-320,44 #7f0c0055 app:id/value}
+                    android.widget.RelativeLayout{2b42c8d5 V.E...C. ... 0,124-320,169}
+                      android.widget.LinearLayout{2e5e98ea V.E..... ... 0,0-320,45}
+                        android.support.v7.widget.AppCompatTextView{3fda97db V.ED.... ... 0,0-229,45 #7f0c0054 app:id/key}
+                        android.support.v7.widget.AppCompatTextView{18b99278 V.ED.... ... 229,7-320,44 #7f0c0055 app:id/value}
+                    android.widget.RelativeLayout{12741d51 V.E...C. ... 0,170-320,215}
+                      android.widget.LinearLayout{3a0559b6 V.E..... ... 0,0-320,45}
+                        android.support.v7.widget.AppCompatTextView{2e60d6b7 V.ED.... ... 0,0-160,45 #7f0c0054 app:id/key}
+                        android.support.v7.widget.AppCompatTextView{9315e24 V.ED.... ... 160,7-320,44 #7f0c0055 app:id/value}
+                    android.widget.RelativeLayout{288c3d8d V.E...C. ... 0,216-320,261}
+                      android.widget.LinearLayout{26855b42 V.E..... ... 0,0-320,45}
+                        android.support.v7.widget.AppCompatTextView{1fa22753 V.ED.... ... 0,0-242,45 #7f0c0054 app:id/key}
+                        android.support.v7.widget.AppCompatTextView{1d383890 V.ED.... ... 242,7-320,44 #7f0c0055 app:id/value}
+                    android.widget.RelativeLayout{218c2589 V.E...C. ... 0,262-320,307}
+                      android.widget.LinearLayout{d11e98e V.E..... ... 0,0-320,45}
+                        android.support.v7.widget.AppCompatTextView{379de5af V.ED.... ... 0,0-214,45 #7f0c0054 app:id/key}
+                        android.support.v7.widget.AppCompatTextView{1e904dbc V.ED.... ... 214,7-320,44 #7f0c0055 app:id/value}
+                    android.widget.RelativeLayout{16889145 V.E...C. ... 0,308-320,353}
+                      android.widget.LinearLayout{14c7109a V.E..... ... 0,0-320,45}
+                        android.support.v7.widget.AppCompatTextView{30ed2dcb V.ED.... ... 0,0-217,45 #7f0c0054 app:id/key}
+                        android.support.v7.widget.AppCompatTextView{ef289a8 V.ED.... ... 217,7-320,44 #7f0c0055 app:id/value}
+                    android.widget.RelativeLayout{2325fcc1 V.E..... ... 0,354-320,399}
+                      android.widget.LinearLayout{8759c66 V.E..... ... 0,0-320,45}
+                        android.support.v7.widget.AppCompatTextView{c9edba7 V.ED.... ... 0,0-279,45 #7f0c0054 app:id/key}
+                        android.support.v7.widget.AppCompatTextView{10ba9854 V.ED.... ... 279,7-320,44 #7f0c0055 app:id/value}
+              android.support.v7.widget.ActionBarContainer{1ed4a3fd V.ED.... ... 0,0-320,56 #7f0c0040 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{3d2f18f2 V.E..... ... 0,0-320,56 #7f0c0041 app:id/action_bar}
+                  android.widget.TextView{23d38b43 V.ED.... ... 16,14-54,42}
+                  android.support.v7.widget.ActionMenuView{2e52e5c0 V.E..... ... 320,0-320,56}
+                android.support.v7.widget.ActionBarContextView{2dcc82f9 G.E..... ... 0,0-0,0 #7f0c0042 app:id/action_context_bar}
+        android.view.View{1591d23e V.ED.... ... 0,0-320,25 #102002f android:id/statusBarBackground}
+
+  ACTIVITY tw.dgl.com/.MainActivity 35369850 pid=6478
+    Local FragmentActivity 12579bee State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@3719989f
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@3719989f
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{2c609dec I.E..... ... 0,0-320,480}
+        android.widget.LinearLayout{25c955b5 V.E..... ... 0,0-320,480}
+          android.view.ViewStub{2dd4d44a G.E..... ... 0,0-0,0 #1020373}
+          android.widget.FrameLayout{17891fbb V.E..... ... 0,25-320,234}
+            android.support.v7.widget.ActionBarOverlayLayout{12afacd8 V.E..... ... 0,0-320,209 #7f0c003f app:id/decor_content_parent}
+              android.support.v7.widget.ContentFrameLayout{2869831 V.E..... ... 0,56-320,209 #1020002 android:id/content}
+                android.widget.LinearLayout{3c93eb16 V.E..... ... 0,0-320,153}
+                  android.widget.ListView{59ffc97 VFED.VC. ... 0,0-320,153 #7f0c0050 app:id/listView}
+                    android.widget.LinearLayout{17debe84 V.E...C. ... 0,0-320,71}
+                      android.support.v7.widget.AppCompatTextView{25fb866d V.ED.... ... 0,0-320,71 #7f0c002a app:id/title}
+                      android.support.v7.widget.AppCompatTextView{345ba2a2 G.ED.... ... 0,0-0,0 #7f0c0057 app:id/subtitle}
+                    android.widget.LinearLayout{21ddcb33 V.E...C. ... 0,72-320,143}
+                      android.support.v7.widget.AppCompatTextView{1bcb3ef0 V.ED.... ... 0,0-320,71 #7f0c002a app:id/title}
+                      android.support.v7.widget.AppCompatTextView{20571c69 G.ED.... ... 0,0-0,0 #7f0c0057 app:id/subtitle}
+                    android.widget.LinearLayout{31f546ee V.E...C. ... 0,144-320,240}
+                      android.support.v7.widget.AppCompatTextView{b1fe78f V.ED.... ... 0,0-320,96 #7f0c002a app:id/title}
+                      android.support.v7.widget.AppCompatTextView{1cbd5a1c G.ED.... ... 0,0-0,0 #7f0c0057 app:id/subtitle}
+              android.support.v7.widget.ActionBarContainer{3bbc1625 V.ED.... ... 0,0-320,56 #7f0c0040 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{372e3fa V.E..... ... 0,0-320,56 #7f0c0041 app:id/action_bar}
+                  android.support.v7.widget.ActionMenuView{6bd6dab V.E..... ... 320,0-320,56}
+                    android.support.v7.view.menu.ActionMenuItemView{1353fc08 GFED..CL ... 0,4-56,52 #7f0c0064 app:id/action_search}
+                  android.widget.ImageButton{7bcefa1 VFED..C. ... 0,0-56,56}
+                  android.support.v7.widget.SearchView{13fb45c6 VFE..... ... 56,6-304,50 #7f0c0064 app:id/action_search}
+                    android.widget.LinearLayout{e633987 V.E..... ... 0,0-248,44 #7f0c0044 app:id/search_bar}
+                      android.support.v7.widget.AppCompatTextView{2130d0b4 G.ED.... ... 0,0-0,0 #7f0c0045 app:id/search_badge}
+                      android.support.v7.widget.AppCompatImageView{2097e4dd GFED..C. ... 0,0-0,0 #7f0c0046 app:id/search_button}
+                      android.widget.LinearLayout{855f852 V.E..... ... 8,4-240,40 #7f0c0047 app:id/search_edit_frame}
+                        android.support.v7.widget.AppCompatImageView{1fafe723 G.ED.... ... 0,0-0,0 #7f0c0048 app:id/search_mag_icon}
+                        android.widget.LinearLayout{3e644420 V.E..... ... 0,0-232,36 #7f0c0049 app:id/search_plate}
+                          android.support.v7.widget.SearchView$SearchAutoComplete{2e32f1d9 VFED..CL F.. 0,0-192,36 #7f0c004a app:id/search_src_text}
+                          android.support.v7.widget.AppCompatImageView{1837479e VFED..C. ... 192,0-232,36 #7f0c004b app:id/search_close_btn}
+                        android.widget.LinearLayout{298fd27f G.E..... ... 0,0-0,0 #7f0c004c app:id/submit_area}
+                          android.support.v7.widget.AppCompatImageView{1199824c GFED..C. ... 0,0-0,0 #7f0c004d app:id/search_go_btn}
+                          android.support.v7.widget.AppCompatImageView{16d7d295 GFED..C. ... 0,0-0,0 #7f0c004e app:id/search_voice_btn}
+                android.support.v7.widget.ActionBarContextView{304c3faa G.E..... ... 0,0-0,0 #7f0c0042 app:id/action_context_bar}
+        android.view.View{3359179b V.ED.... ... 0,0-320,25 #102002f android:id/statusBarBackground}

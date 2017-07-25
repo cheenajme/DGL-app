@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="4764256351077"
+    token="-5573334178503027902"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="4739731438159"
+        verifier="BINARY_MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="4764256351077"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>

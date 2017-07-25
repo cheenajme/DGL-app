@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tw.dgl.com"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_dgl03"
+        android:label="Rule Marine"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="tw.dgl.com.MainActivity" />
+        <activity android:name="tw.dgl.com.DetailActivity" />
+        <activity android:name="tw.dgl.com.additional" />
+        <activity android:name="tw.dgl.com.IBC_P" />
+        <activity android:name="tw.dgl.com.SE" />
+        <activity android:name="tw.dgl.com.PP" />
+        <activity android:name="tw.dgl.com.TP" />
+        <activity android:name="tw.dgl.com.ST_CODE" />
+        <activity android:name="tw.dgl.com.SC" />
+        <activity
+            android:name="tw.dgl.com.EQ"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity android:name="tw.dgl.com.IBCI" />
+        <activity
+            android:name="tw.dgl.com.PI"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name="tw.dgl.com.EMS"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name="tw.dgl.com.FristActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name="tw.dgl.com.Frist2Activity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name="tw.dgl.com.see419"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name="tw.dgl.com.chinese"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name="tw.dgl.com.test1"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name="tw.dgl.com.test2"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name="tw.dgl.com.opening"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="tw.dgl.com.Policy" />
+        <activity android:name="tw.dgl.com.Policydata" />
+        <activity android:name="tw.dgl.com.Segregation" />
+        <activity android:name="tw.dgl.com.Segregationdata" />
+        <activity android:name="tw.dgl.com.chinese4.chinese4Activity" />
+        <activity android:name="tw.dgl.com.chinese4.Label01Activity" />
+        <activity android:name="tw.dgl.com.chinese4.Label02Activity" />
+        <activity android:name="tw.dgl.com.chinese4.Label04Activity" />
+        <activity android:name="tw.dgl.com.chinese4.Label05Activity" />
+        <activity android:name="tw.dgl.com.chinese4.Label6Activity" />
+        <activity android:name="tw.dgl.com.Label.LabelActivity" />
+        <activity android:name="tw.dgl.com.Label.Dglabel01Activity" />
+        <activity android:name="tw.dgl.com.Label.Dglabel02Activity" />
+        <activity android:name="tw.dgl.com.Label.Dglablel04Activity" />
+        <activity android:name="tw.dgl.com.Label.Dgablel05Activity" />
+        <activity android:name="tw.dgl.com.Label.Dgablel06Activity" />
+    </application>
+
+</manifest>

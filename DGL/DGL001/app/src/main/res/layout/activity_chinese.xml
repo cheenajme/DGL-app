@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_chinese"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="tw.dgl.com.chinese"
+    android:background="@android:color/holo_blue_bright">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="危險品一覽表"
+        android:id="@+id/button3"
+        android:onClick="but1"
+        android:background="@drawable/backgroun_btn"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="26dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="航商危險品承攬政策"
+        android:id="@+id/button4"
+        android:onClick="but2"
+
+        android:layout_below="@+id/button3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="危險品隔離積載"
+        android:id="@+id/button5"
+        android:onClick="but3"
+        android:layout_below="@+id/button4"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="危險品標籤"
+        android:id="@+id/button6"
+        android:onClick="but4"
+        android:background="@drawable/backgroun_btn"
+        android:layout_below="@+id/button5"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="危險品學習課程"
+        android:id="@+id/button7"
+        android:onClick="but5"
+        android:layout_marginTop="50dp"
+        android:layout_below="@+id/button5"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="幫助與資源"
+        android:id="@+id/button8"
+        android:onClick="but6"
+        android:layout_below="@+id/button7"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="回首頁"
+        android:id="@+id/button9"
+        android:onClick="but7"
+        android:background="#f6fcfa"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

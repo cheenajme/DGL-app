@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tw.dgl.com">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_dgl03"
+        android:label="Rule Marine"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".DetailActivity" />
+        <activity android:name=".additional" />
+        <activity android:name=".IBC_P" />
+        <activity android:name=".SE" />
+        <activity android:name=".PP" />
+        <activity android:name=".TP" />
+        <activity android:name=".ST_CODE" />
+        <activity android:name=".SC" />
+        <activity
+            android:name=".EQ"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity android:name=".IBCI" />
+        <activity
+            android:name=".PI"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".EMS"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".FristActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".Frist2Activity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".see419"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".chinese"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".test1"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".test2"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".opening"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Policy" />
+        <activity android:name=".Policydata" />
+        <activity android:name=".Segregation" />
+        <activity android:name=".Segregationdata" />
+        <activity android:name=".chinese4.chinese4Activity" />
+        <activity android:name=".chinese4.Label01Activity" />
+        <activity android:name=".chinese4.Label02Activity" />
+        <activity android:name=".chinese4.Label04Activity" />
+        <activity android:name=".chinese4.Label05Activity" />
+        <activity android:name=".chinese4.Label6Activity" />
+        <activity android:name=".Label.LabelActivity" />
+        <activity android:name=".Label.Dglabel01Activity" />
+        <activity android:name=".Label.Dglabel02Activity" />
+        <activity android:name=".Label.Dglablel04Activity" />
+        <activity android:name=".Label.Dgablel05Activity" />
+        <activity android:name=".Label.Dgablel06Activity"></activity>
+    </application>
+
+</manifest>
