@@ -1,0 +1,22 @@
+#Tue Jul 25 22:57:37 CST 2017
+renamed.6=classes5.dex
+renamed.5=classes7.dex
+renamed.4=classes6.dex
+renamed.3=classes2.dex
+renamed.2=classes.dex
+renamed.1=classes4.dex
+renamed.0=classes3.dex
+base.6=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_9a87de5b18cdb2ca19835691efb052a376a59dbf
+base.5=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_d2a0ab68b7bda8b4d16b38d82856278ef4b3d462
+base.4=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\sqliteassethelper-2.0.1_99126ab2a29c27c831520117d65fb9b8804d1269
+base.3=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_59046868937b445f39b29016daeeaf242adfba8b
+base.2=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_577bef3d48f713d08ec886c19c274e70d2cc1946
+base.1=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e230b20897c83b2d4c0848bc499d346f8a767346
+base.0=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_628486c1c3502a27acd7e7e6a746eb27dc3f3261
+file.6=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_9a87de5b18cdb2ca19835691efb052a376a59dbf\\classes.dex
+file.5=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_d2a0ab68b7bda8b4d16b38d82856278ef4b3d462\\classes.dex
+file.4=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\sqliteassethelper-2.0.1_99126ab2a29c27c831520117d65fb9b8804d1269\\classes.dex
+file.3=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_59046868937b445f39b29016daeeaf242adfba8b\\classes.dex
+file.2=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_577bef3d48f713d08ec886c19c274e70d2cc1946\\classes.dex
+file.1=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e230b20897c83b2d4c0848bc499d346f8a767346\\classes.dex
+file.0=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_628486c1c3502a27acd7e7e6a746eb27dc3f3261\\classes.dex

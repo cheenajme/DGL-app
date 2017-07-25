@@ -1,7 +1,7 @@
-#Sun Jan 15 21:23:22 CST 2017
-base.0=D\:\\app\\12.29-20161229T143022Z\\12.29\\DGL001\\DGL001\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a622c0c9a745d2d1364e9819a320fa30302f33fe
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=D\:\\app\\12.29-20161229T143022Z\\12.29\\DGL001\\DGL001\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_49f1762971ec0670e30b61f3a5cc85fbe95f5a04\\classes.dex
-base.1=D\:\\app\\12.29-20161229T143022Z\\12.29\\DGL001\\DGL001\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_49f1762971ec0670e30b61f3a5cc85fbe95f5a04
-file.0=D\:\\app\\12.29-20161229T143022Z\\12.29\\DGL001\\DGL001\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a622c0c9a745d2d1364e9819a320fa30302f33fe\\classes.dex
+#Tue Jul 25 22:57:39 CST 2017
+base.0=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_095ede7bc10eb6956f396e2c6d39af0d9f73df9a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_42336ff78d3552c735dbb443df13880a5679e703\\classes.dex
+base.1=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_42336ff78d3552c735dbb443df13880a5679e703
+file.0=D\:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_095ede7bc10eb6956f396e2c6d39af0d9f73df9a\\classes.dex

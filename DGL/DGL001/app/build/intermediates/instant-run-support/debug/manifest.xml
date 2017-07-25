@@ -9,7 +9,6 @@
         android:targetSdkVersion="23" />
 
     <application
-        android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_dgl03"
         android:label="Rule Marine"
@@ -77,6 +76,11 @@
         <activity android:name="tw.dgl.com.Label.Dglablel04Activity" />
         <activity android:name="tw.dgl.com.Label.Dgablel05Activity" />
         <activity android:name="tw.dgl.com.Label.Dgablel06Activity" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="tw.dgl.com.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

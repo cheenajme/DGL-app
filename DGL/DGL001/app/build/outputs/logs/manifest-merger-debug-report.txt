@@ -1,219 +1,219 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:2:1-75:12
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:2:1-75:12
 	package
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:3:5-25
-		INJECTED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml
-		INJECTED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:3:5-25
+		INJECTED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml
-		INJECTED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml
-		INJECTED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml
 application
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:5:5-73:19
-MERGED from [com.android.support:appcompat-v7:23.4.0] D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:5:5-73:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\srfderf\.android\build-cache\2ad4fb0c942919f5924d2867b2f3334237521516\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\srfderf\.android\build-cache\18758b271fd7067c96d8a167f3b47c43378b5fe2\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\srfderf\.android\build-cache\0e9cf74f57ef068c5954061a5f1ed9d56c7ebf75\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\srfderf\.android\build-cache\12b9f66fbabab87bf890bfcd02cecb9e045803ce\output\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:8:9-36
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:8:9-36
 	android:supportsRtl
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:9:9-35
 	android:allowBackup
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:7:9-40
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:7:9-40
 	android:theme
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:10:9-40
 activity#tw.dgl.com.MainActivity
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:11:9-50
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:11:9-50
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:11:19-47
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:11:19-47
 activity#tw.dgl.com.DetailActivity
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:12:9-52
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:12:9-52
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:12:19-49
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:12:19-49
 activity#tw.dgl.com.additional
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:13:9-48
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:13:9-48
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:13:19-45
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:13:19-45
 activity#tw.dgl.com.IBC_P
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:14:9-43
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:14:9-43
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:14:19-40
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:14:19-40
 activity#tw.dgl.com.SE
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:15:9-40
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:15:9-40
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:15:19-37
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:15:19-37
 activity#tw.dgl.com.PP
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:16:9-40
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:16:9-40
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:16:19-37
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:16:19-37
 activity#tw.dgl.com.TP
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:17:9-40
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:17:9-40
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:17:19-37
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:17:19-37
 activity#tw.dgl.com.ST_CODE
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:18:9-45
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:18:9-45
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:18:19-42
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:18:19-42
 activity#tw.dgl.com.SC
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:19:9-40
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:19:9-40
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:19:19-37
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:19:19-37
 activity#tw.dgl.com.EQ
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:20:9-22:75
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:20:9-22:75
 	android:theme
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:22:13-72
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:22:13-72
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:21:13-31
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:21:13-31
 activity#tw.dgl.com.IBCI
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:23:9-42
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:23:9-42
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:23:19-39
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:23:19-39
 activity#tw.dgl.com.PI
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:24:9-26:75
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:24:9-26:75
 	android:theme
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:26:13-72
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:25:13-31
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:25:13-31
 activity#tw.dgl.com.EMS
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:27:9-29:75
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:27:9-29:75
 	android:theme
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:29:13-72
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:29:13-72
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:28:13-32
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:28:13-32
 activity#tw.dgl.com.FristActivity
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:30:9-32:75
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:30:9-32:75
 	android:theme
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:32:13-72
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:32:13-72
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:31:13-42
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:31:13-42
 activity#tw.dgl.com.Frist2Activity
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:33:9-35:75
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:33:9-35:75
 	android:theme
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:35:13-72
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:35:13-72
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:34:13-43
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:34:13-43
 activity#tw.dgl.com.see419
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:36:9-38:75
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:36:9-38:75
 	android:theme
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:38:13-72
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:38:13-72
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:37:13-35
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:37:13-35
 activity#tw.dgl.com.chinese
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:39:9-41:75
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:39:9-41:75
 	android:theme
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:41:13-72
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:41:13-72
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:40:13-36
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:40:13-36
 activity#tw.dgl.com.test1
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:42:9-44:75
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:42:9-44:75
 	android:theme
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:44:13-72
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:44:13-72
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:43:13-34
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:43:13-34
 activity#tw.dgl.com.test2
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:45:9-47:75
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:45:9-47:75
 	android:theme
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:47:13-72
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:47:13-72
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:46:13-34
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:46:13-34
 activity#tw.dgl.com.opening
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:48:9-56:20
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:48:9-56:20
 	android:theme
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:50:13-72
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:50:13-72
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:49:13-36
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:49:13-36
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:51:13-55:29
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:51:13-55:29
 action#android.intent.action.MAIN
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:52:17-69
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:52:17-69
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:52:25-66
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:52:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:54:17-77
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:54:17-77
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:54:27-74
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:54:27-74
 activity#tw.dgl.com.Policy
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:57:9-44
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:57:9-44
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:57:19-41
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:57:19-41
 activity#tw.dgl.com.Policydata
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:58:9-48
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:58:9-48
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:58:19-45
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:58:19-45
 activity#tw.dgl.com.Segregation
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:59:9-49
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:59:9-49
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:59:19-46
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:59:19-46
 activity#tw.dgl.com.Segregationdata
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:60:9-53
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:60:9-53
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:60:19-50
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:60:19-50
 activity#tw.dgl.com.chinese4.chinese4Activity
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:61:9-63
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:61:9-63
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:61:19-60
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:61:19-60
 activity#tw.dgl.com.chinese4.Label01Activity
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:62:9-62
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:62:9-62
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:62:19-59
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:62:19-59
 activity#tw.dgl.com.chinese4.Label02Activity
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:63:9-62
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:63:9-62
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:63:19-59
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:63:19-59
 activity#tw.dgl.com.chinese4.Label04Activity
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:64:9-62
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:64:9-62
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:64:19-59
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:64:19-59
 activity#tw.dgl.com.chinese4.Label05Activity
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:65:9-62
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:65:9-62
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:65:19-59
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:65:19-59
 activity#tw.dgl.com.chinese4.Label6Activity
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:66:9-61
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:66:9-61
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:66:19-58
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:66:19-58
 activity#tw.dgl.com.Label.LabelActivity
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:67:9-57
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:67:9-57
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:67:19-54
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:67:19-54
 activity#tw.dgl.com.Label.Dglabel01Activity
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:68:9-61
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:68:9-61
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:68:19-58
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:68:19-58
 activity#tw.dgl.com.Label.Dglabel02Activity
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:69:9-61
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:69:9-61
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:69:19-58
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:69:19-58
 activity#tw.dgl.com.Label.Dglablel04Activity
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:70:9-62
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:70:9-62
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:70:19-59
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:70:19-59
 activity#tw.dgl.com.Label.Dgablel05Activity
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:71:9-61
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:71:9-61
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:71:19-58
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:71:19-58
 activity#tw.dgl.com.Label.Dgablel06Activity
-ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:72:9-70
+ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:72:9-70
 	android:name
-		ADDED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml:72:19-58
+		ADDED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml:72:19-58
 uses-sdk
-INJECTED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:23.4.0] D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+INJECTED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\srfderf\.android\build-cache\2ad4fb0c942919f5924d2867b2f3334237521516\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\srfderf\.android\build-cache\18758b271fd7067c96d8a167f3b47c43378b5fe2\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\srfderf\.android\build-cache\0e9cf74f57ef068c5954061a5f1ed9d56c7ebf75\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\srfderf\.android\build-cache\12b9f66fbabab87bf890bfcd02cecb9e045803ce\output\AndroidManifest.xml:20:5-43
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\srfderf\.android\build-cache\2ad4fb0c942919f5924d2867b2f3334237521516\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml
-		INJECTED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml
-		INJECTED from D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git-DGL\DGL\DGL001\app\src\main\AndroidManifest.xml

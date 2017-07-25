@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\git-DGL\DGL\DGL001\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\git-DGL\DGL\DGL001\app\src\debug\jniLibs"/></dataSet></merger>

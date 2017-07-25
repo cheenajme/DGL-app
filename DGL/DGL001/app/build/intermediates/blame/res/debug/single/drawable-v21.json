@@ -8,7 +8,19 @@
         "source": "D:\\app\\12.29-20161229T143022Z\\12.29\\DGL001\\DGL001\\DGL001\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
+        "merged": "D:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\srfderf\\.android\\build-cache\\2ad4fb0c942919f5924d2867b2f3334237521516\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
         "merged": "D:\\app\\12.29-20161229T143022Z\\12.29\\DGL001\\DGL001\\DGL001\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
         "source": "D:\\app\\12.29-20161229T143022Z\\12.29\\DGL001\\DGL001\\DGL001\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\srfderf\\.android\\build-cache\\2ad4fb0c942919f5924d2867b2f3334237521516\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\git-DGL\\DGL\\DGL001\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\srfderf\\.android\\build-cache\\2ad4fb0c942919f5924d2867b2f3334237521516\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     }
 ]

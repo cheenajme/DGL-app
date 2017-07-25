@@ -3,84 +3,84 @@
 
     <item
         is-multidex="true"
+        jar="D:\git-DGL\DGL\DGL001\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\git-DGL\DGL\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_42336ff78d3552c735dbb443df13880a5679e703\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srfderf\.android\build-cache\12b9f66fbabab87bf890bfcd02cecb9e045803ce\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\git-DGL\DGL\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_9a87de5b18cdb2ca19835691efb052a376a59dbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srfderf\.android\build-cache\12b9f66fbabab87bf890bfcd02cecb9e045803ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\git-DGL\DGL\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59046868937b445f39b29016daeeaf242adfba8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srfderf\.android\build-cache\0e9cf74f57ef068c5954061a5f1ed9d56c7ebf75\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\git-DGL\DGL\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_628486c1c3502a27acd7e7e6a746eb27dc3f3261\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\srfderf\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.sqliteasset\sqliteassethelper\2.0.1\d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f\sqliteassethelper-2.0.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.2"
+        revision="25.0.0"
         sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
-        <dex dex="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10\sqliteassethelper-2.0.1_99126ab2a29c27c831520117d65fb9b8804d1269\classes.dex" />
+        <dex dex="D:\git-DGL\DGL\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10\sqliteassethelper-2.0.1_99126ab2a29c27c831520117d65fb9b8804d1269\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\srfderf\.android\build-cache\2ad4fb0c942919f5924d2867b2f3334237521516\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.2"
-        sha1="765816caea6dfd6ac7423c40930157e279d2002c">
-        <dex dex="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a622c0c9a745d2d1364e9819a320fa30302f33fe\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\android\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_ca89a7e83b2256571b0f4710a6e32c5c7d4de6f8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_dfd7b953b614db88017ce20ce13ab30aba4b1a21\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
+        revision="25.0.0"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_03a34d38253ff77e4ebb33121f06b7da0ced0611\classes.dex" />
+        <dex dex="D:\git-DGL\DGL\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_577bef3d48f713d08ec886c19c274e70d2cc1946\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="D:\git-DGL\DGL\DGL001\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.2"
-        sha1="28185040d48394e766c12a8666b40a8a85593586">
-        <dex dex="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_49f1762971ec0670e30b61f3a5cc85fbe95f5a04\classes.dex" />
+        revision="25.0.0"
+        sha1="54530a67316b5a114f2fae8850090fb269ee8d05">
+        <dex dex="D:\git-DGL\DGL\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_095ede7bc10eb6956f396e2c6d39af0d9f73df9a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jar="C:\Users\srfderf\.android\build-cache\18758b271fd7067c96d8a167f3b47c43378b5fe2\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_a8406568dd221ee5954a336a0b86861609c73b9b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_3572c39fa3055107f0941dfaf5aaf0b920e28de3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
+        revision="25.0.0"
         sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="D:\app\12.29-20161229T143022Z\12.29\DGL001\DGL001\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_f7590aa434619ace1e2182792f3958fb8b8d1ed8\classes.dex" />
+        <dex dex="D:\git-DGL\DGL\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e230b20897c83b2d4c0848bc499d346f8a767346\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\srfderf\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\git-DGL\DGL\DGL001\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_d2a0ab68b7bda8b4d16b38d82856278ef4b3d462\classes.dex" />
     </item>
 
 </items>
